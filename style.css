@@ -1135,11 +1135,11 @@ button {
         font-size: 1.7vh;
         width: 36vh;
     }
-    .-image-slider-two- img {
-        width: 90%;
-        top: 25%;
-        right: 5%;
-    }
+.-image-slider-two- img {
+    width: 80%;
+    top: 20%;
+    right: 10%;
+}
     .-slide-two-text-:nth-child(3n) {
         position: absolute;
         top: 29.4vh;
